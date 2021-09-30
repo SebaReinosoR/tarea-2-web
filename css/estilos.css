@@ -1,0 +1,35 @@
+body {
+  font-size: 15px;
+}
+
+#antecedentes input {
+  width: 100%;
+  max-width: 500px;
+  height: 30px;
+}
+
+#antecedentes label {
+  width: 100%;
+  height: 30px;
+}
+
+form ul {
+  list-style-type: none;
+}
+
+#nivelConocimiento li input {
+  width: 100%;
+  max-width: 500px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+#area {
+  width: 100%;
+  max-width: 500px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+}
+/*# sourceMappingURL=estilos.css.map */
